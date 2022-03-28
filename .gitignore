@@ -33,6 +33,8 @@ MANIFEST
 *.manifest
 *.spec
 
+# Congig API
+config.js
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
